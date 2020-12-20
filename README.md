@@ -1,1 +1,2 @@
-# STM32-Unity-Demo
+# stm32-unity-template
+An STM32 - Unity Test Framework template project
